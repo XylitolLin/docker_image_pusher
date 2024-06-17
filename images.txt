@@ -1,2 +1,3 @@
 --platform=linux/arm64 openjdk:8
 --platform=linux/arm64 nginx:alpine
+--platform=linux/arm64 clickhouse/clickhouse-server:23.2.1
