@@ -3,3 +3,4 @@
 --platform=linux/arm64 clickhouse/clickhouse-server:23.2.1
 --platform=linux/arm64 phusion/baseimage:focal-1.2.0
 --platform=linux/arm64 node:hydrogen-bullseye-slim
+--platform=linux/arm64 arm64v8/mongo:7.0
