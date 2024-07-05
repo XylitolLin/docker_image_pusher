@@ -5,3 +5,4 @@
 --platform=linux/arm64 node:hydrogen-bullseye-slim
 --platform=linux/arm64 arm64v8/mongo:7.0
 --platform=linux/arm64 bitnami/nginx:1.25.5
+--platform=linux/arm64 openresty/openresty:1.21.4.3-3-jammy
